@@ -9,7 +9,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/blogs")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://akshayramteke97.github.io\")")
 public class BlogController {
 
     @GetMapping
